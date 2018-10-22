@@ -21,9 +21,6 @@ HTML, CSS, JS,
 * [Bcrypt](https://github.com/kelektiv/node.bcrypt.js/)
 * [Validator](https://github.com/chriso/validator.js/)
 
-## YouTube
-* [Jive](https://youtu.be/u-IDopU124A)
-
 ## Team
 
 * **John Irle** - [JohnIrle](https://github.com/JohnIrle)
